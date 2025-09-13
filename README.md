@@ -72,7 +72,7 @@ flask (for web app)
 
 ---
 
-## Scre
+## Screenshot 
 
 ![Sample1](images/img1.png)
 
